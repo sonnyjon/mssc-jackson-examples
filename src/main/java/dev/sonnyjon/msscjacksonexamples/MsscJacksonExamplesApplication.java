@@ -1,4 +1,4 @@
-package guru.springframework.msscjacksonexamples;
+package dev.sonnyjon.msscjacksonexamples;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

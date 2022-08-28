@@ -1,4 +1,4 @@
-package guru.springframework.msscjacksonexamples;
+package dev.sonnyjon.msscjacksonexamples;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

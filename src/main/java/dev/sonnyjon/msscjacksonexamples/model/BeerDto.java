@@ -1,4 +1,4 @@
-package guru.springframework.msscjacksonexamples.model;
+package dev.sonnyjon.msscjacksonexamples.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
